@@ -1,6 +1,6 @@
 # Week 34 - Resources
 
-[:house: Main page](https://github.com/kokchun/Data-engineering-AI22)
+[:house: Main page](https://github.com/pr0fez/Data-engineering-AI24)
 
 ---
 ## Setup :wrench:

@@ -1,6 +1,6 @@
 # Week 23 - Resources
 
-[:house: Main page](https://github.com/kokchun/Data-engineering-AI22)
+[:house: Main page](https://github.com/pr0fez/Data-engineering-AI24)
 
 ---
 ## Setup :wrench:
@@ -22,9 +22,9 @@
 ---
 ## Lecture notes :book:
 
-- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro)
-- [Lecture 5 - Airflow_ELT](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec5-Airflow_ELT)
-- [Lecture 6 - SCB data](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec6-SCB)
+- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/pr0fez/Data-engineering-AI24/tree/main/Lecture-code/Lec4-Airflow_intro)
+- [Lecture 5 - Airflow_ELT](https://github.com/pr0fez/Data-engineering-AI24/tree/main/Lecture-code/Lec5-Airflow_ELT)
+- [Lecture 6 - SCB data](https://github.com/pr0fez/Data-engineering-AI24/tree/main/Lecture-code/Lec6-SCB)
 
 ---
 ## Theory :book:
@@ -44,4 +44,4 @@ Other
 ---
 ## Exercises :running:
 
-- [Exercise 4 - Airflow](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise4-Airflow.md)
+- [Exercise 4 - Airflow](https://github.com/pr0fez/Data-engineering-AI24/blob/main/Exercises/Exercise4-Airflow.md)

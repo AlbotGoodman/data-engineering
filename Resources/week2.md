@@ -1,6 +1,6 @@
 # Week 22 - Resources
 
-[:house: Main page](https://github.com/kokchun/Data-engineering-AI22)
+[:house: Main page](https://github.com/pr0fez/Data-engineering-AI24
 
 ---
 ## Setup :wrench:
@@ -26,8 +26,8 @@
 ---
 ## Lecture notes :book:
 
-- [Lecture 3 - First ETL pipeline](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec3-ETL_pipeline)
-- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/kokchun/Data-engineering-AI22/tree/main/Lecture-code/Lec4-Airflow_intro)
+- [Lecture 3 - First ETL pipeline](https://github.com/pr0fez/Data-engineering-AI24/tree/main/Lecture-code/Lec3-ETL_pipeline)
+- [Lecture 4 - Intro to orchestration with Airflow](https://github.com/pr0fez/Data-engineering-AI24/tree/main/Lecture-code/Lec4-Airflow_intro)
 
 
 ---
@@ -71,4 +71,4 @@ Core concepts
 ---
 ## Exercises :running:
 
-- [Exercise 3 - Handover code (ETL)](https://github.com/kokchun/Data-engineering-AI22/blob/main/Exercises/Exercise3-ETL.md)
+- [Exercise 3 - Handover code (ETL)](https://github.com/pr0fez/Data-engineering-AI24/blob/main/Exercises/Exercise3-ETL.md)
